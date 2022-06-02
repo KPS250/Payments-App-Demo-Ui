@@ -1,0 +1,8 @@
+{
+  "icon": true,
+  "expandProps": false,
+  "replaceAttrValues": {
+    "#000": "{props.fill}",
+    "#f10": "{props.fillSecondary}"
+  }
+}
